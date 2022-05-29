@@ -6,83 +6,83 @@ card10 = document.getElementById('card10'), card11 = document.getElementById('ca
 card1.addEventListener("click", () => {
     document.getElementById('mainH').innerHTML = "Multix Shoes"
     document.getElementById('subH').innerHTML = "Men's Originals"
-    document.getElementById('imgModal').setAttribute('src', '/Images/img1.jpg')
+    document.getElementById('imgModal').setAttribute('src', 'img1.jpg')
 });
 
 card2.addEventListener("click", () => {
     document.getElementById('mainH').innerHTML = "Stan Smith Shoes"
     document.getElementById('subH').innerHTML = "Men's Originals"
-    document.getElementById('imgModal').setAttribute('src', '/Images/img2.jpg')
+    document.getElementById('imgModal').setAttribute('src', 'img2.jpg')
 
 });
 
 card3.addEventListener("click", () => {
     document.getElementById('mainH').innerHTML = "Forum Low Shoes"
     document.getElementById('subH').innerHTML = "Youth Originals"
-    document.getElementById('imgModal').setAttribute('src', '/Images/img3.jpg')
+    document.getElementById('imgModal').setAttribute('src', 'img3.jpg')
 
 });
 
 card4.addEventListener("click", () => {
     document.getElementById('mainH').innerHTML = "Swift Run 22"
     document.getElementById('subH').innerHTML = "Women's Originals"
-    document.getElementById('imgModal').setAttribute('src', '/Images/img4.jpg')
+    document.getElementById('imgModal').setAttribute('src', 'img4.jpg')
 
 });
 
 card5.addEventListener("click", () => {
     document.getElementById('mainH').innerHTML = "Disney Stan Shoes"
     document.getElementById('subH').innerHTML = "Women's Originals"
-    document.getElementById('imgModal').setAttribute('src', '/Images/img5.jpg')
+    document.getElementById('imgModal').setAttribute('src', 'img5.jpg')
 
 });
 
 card6.addEventListener("click", () => {
     document.getElementById('mainH').innerHTML = "NMD_R1 Shoes"
     document.getElementById('subH').innerHTML = "Men's Originals"
-    document.getElementById('imgModal').setAttribute('src', '/Images/img6.jpg')
+    document.getElementById('imgModal').setAttribute('src', 'img6.jpg')
 
 });
 
 card7.addEventListener("click", () => {
     document.getElementById('mainH').innerHTML = "Gazelle Shoes"
     document.getElementById('subH').innerHTML = "Women's Originals"
-    document.getElementById('imgModal').setAttribute('src', '/Images/img7.jpg')
+    document.getElementById('imgModal').setAttribute('src', 'img7.jpg')
 
 });
 
 card8.addEventListener("click", () => {
     document.getElementById('mainH').innerHTML = "Drax Ozelia Shoes"
     document.getElementById('subH').innerHTML = "Men's Originals"
-    document.getElementById('imgModal').setAttribute('src', '/Images/img8.jpg')
+    document.getElementById('imgModal').setAttribute('src', 'img8.jpg')
 
 });
 
 card9.addEventListener("click", () => {
     document.getElementById('mainH').innerHTML = "Multix J Shoes"
     document.getElementById('subH').innerHTML = "Women's Originals"
-    document.getElementById('imgModal').setAttribute('src', '/Images/img9.jpg')
+    document.getElementById('imgModal').setAttribute('src', 'img9.jpg')
 
 });
 
 card10.addEventListener("click", () => {
     document.getElementById('mainH').innerHTML = "4D FWD Shoes"
     document.getElementById('subH').innerHTML = "Men's Originals"
-    document.getElementById('imgModal').setAttribute('src', '/Images/img10.jpg')
+    document.getElementById('imgModal').setAttribute('src', 'img10.jpg')
 
 });
 
 card11.addEventListener("click", () => {
     document.getElementById('mainH').innerHTML = "UltraBoost 5.0"
     document.getElementById('subH').innerHTML = "Sportswear"
-    document.getElementById('imgModal').setAttribute('src', '/Images/img11.jpg')
+    document.getElementById('imgModal').setAttribute('src', 'img11.jpg')
 
 });
 
 card12.addEventListener("click", () => {
     document.getElementById('mainH').innerHTML = "Fortarun Messi El"
     document.getElementById('subH').innerHTML = "Sportswear"
-    document.getElementById('imgModal').setAttribute('src', '/Images/img12.jpg')
+    document.getElementById('imgModal').setAttribute('src', 'img12.jpg')
 
 });
 
